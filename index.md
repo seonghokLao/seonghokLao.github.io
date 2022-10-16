@@ -1,4 +1,3 @@
-# Seong Hok Lao's page
 ## Intro
 Hi, I'm Seong Hok, or Sean. I'm working towards a career where I can pursue my interests in Software Engineering.
 I'm proficient in Python, Java, C++, and JavaScript. I have led a team of 5 to code a Tower Defense video game 
@@ -13,7 +12,7 @@ I collaboratively developed the website with 5 other teammates and did the follo
 - Refined Python code for GPT-3 API to generate appropriate outputs
   
 ### [Tower Defense Game](https://youtu.be/t3jO11r3wCM)
-[GitHub](https://github.gatech.edu/yma436/Winter-Boot-Tower-Defense)
+[GitHub](https://github.gatech.edu/yma436/Winter-Boot-Tower-Defense)  
 A video game written in Java and JavaFX.
 I led a team of 5 to code the video game from scratch and did the following:
 - Utilized version control through Git and Test-Driven Development for game
