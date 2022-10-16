@@ -1,3 +1,4 @@
+# Seong Hok Lao's Page
 ## Intro
 Hi, I'm Seong Hok, or Sean. I'm working towards a career where I can pursue my interests in Software Engineering.
 I'm proficient in Python, Java, C++, and JavaScript. I have led a team of 5 to code a Tower Defense video game 
