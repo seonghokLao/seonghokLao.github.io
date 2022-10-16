@@ -1,2 +1,1 @@
-# seonghokLao.github.io
-Sean's website
+# Seong Hok Lao's page
