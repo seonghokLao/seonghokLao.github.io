@@ -1,1 +1,4 @@
-
+theme: jekyll-theme-cayman
+title: Seong Hok Lao's Page
+github:
+  is_project_page: false
