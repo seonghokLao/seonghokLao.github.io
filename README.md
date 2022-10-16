@@ -1,2 +1,2 @@
 # Seong Hok Lao's page
-Sean's Website
+A page with Sean's past projects and recent updates.
