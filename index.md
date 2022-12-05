@@ -19,3 +19,9 @@ I led a team of 5 to code the video game from scratch and did the following:
 - Utilized version control through Git and Test-Driven Development for game
 -	Planned and tracked work of the team, controlled quality, helped with the team’s debugging
 -	Implemented in-game menu, entity animation/movement, collision detection
+
+### [Covid Identifier for CT Scans](https://seonghoklao.github.io/covid-identifier-for-ct-scans/)
+[GitHub](https://github.com/seonghokLao/covid-identifier-for-ct-scans)  
+A Machine Learning project where I led a team of 5 to train image classifiers on a dataset of human chest CT scans to identify whether they represent Covid positive or negative.
+- Trained model using Convolutional Neural Network based on DenseNet121 and reached validation accuracy of 97.06%
+- Conducted data cleaning and pre-processing, dimensionality reduction, model evaluation
