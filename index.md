@@ -1,8 +1,9 @@
 # Seong Hok Lao's Page
 ## Intro
-Hi, I'm Seong Hok, or Sean. I'm a 3rd year Computer Science major at Georgia Institute of Technology. I'm working towards a career where I can pursue my interests in Software Engineering.
-I'm proficient in Python, Java, C++, and JavaScript. I have led a team of 5 to code a Tower Defense video game 
-from scratch, as well as collaboratively developed a web application that serves as a tool for students to write better essays using AI.  
+Hi, I'm Seong Hok, or Sean. I'm a 3rd year Computer Science major at Georgia Institute of Technology. I'm working towards a career where I can pursue my interests in Artificial Intelligence and Robotics.
+I'm proficient in Python, Java, C++, and JavaScript.  
+I have trained a CNN model based on DenseNet121 to identify Covid positive patients using CT scan images.  
+I have led a team of 5 to code a Tower Defense video game from scratch, as well as collaboratively developed a web application that serves as a tool for students to write better essays using AI.  
 This page will be constantly updated as I complete more projects.
 ## Projects
 ### [Essay Dashboard Web Application](https://ess-ai.herokuapp.com/)
