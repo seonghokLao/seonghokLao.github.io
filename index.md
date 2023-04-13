@@ -6,13 +6,6 @@ I have trained a CNN model based on DenseNet121 to identify Covid positive patie
 I have led a team of 5 to code a Tower Defense video game from scratch, as well as collaboratively developed a web application that serves as a tool for students to write better essays using AI.  
 This page will be constantly updated as I complete more projects.
 ## Projects
-### [Essay Dashboard Web Application](https://ess-ai.herokuapp.com/)
-[GitHub](https://github.com/jakob-bjorner/essay-dashboard)  
-Ess-AI is a web application with a React.js-based frontend and Flask-based backend that serves to aid students in writing essays using AI.
-I collaboratively developed the website with 5 other teammates and did the following:
-- Designed and implemented User Interface, routing, and light/dark theme
-- Refined Python code for GPT-3 API to generate appropriate outputs
-  
 ### [Tower Defense Game](https://youtu.be/t3jO11r3wCM)
 [GitHub](https://github.gatech.edu/yma436/Winter-Boot-Tower-Defense)  
 A video game written in Java and JavaFX.
@@ -26,3 +19,10 @@ I led a team of 5 to code the video game from scratch and did the following:
 A Machine Learning project where I led a team of 5 to train image classifiers on a dataset of human chest CT scans to identify whether they represent Covid positive or negative.
 - Trained model using Convolutional Neural Network based on DenseNet121 and reached validation accuracy of 97.06%
 - Conducted data cleaning and pre-processing, dimensionality reduction, model evaluation
+
+### [Essay Dashboard Web Application](https://ess-ai.herokuapp.com/)
+[GitHub](https://github.com/jakob-bjorner/essay-dashboard)  
+Ess-AI is a web application with a React.js-based frontend and Flask-based backend that serves to aid students in writing essays using AI.
+I collaboratively developed the website with 5 other teammates and did the following:
+- Designed and implemented User Interface, routing, and light/dark theme
+- Refined Python code for GPT-3 API to generate appropriate outputs
