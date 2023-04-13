@@ -20,7 +20,7 @@ A Machine Learning project where I led a team of 5 to train image classifiers on
 - Trained model using Convolutional Neural Network based on DenseNet121 and reached validation accuracy of 97.06%
 - Conducted data cleaning and pre-processing, dimensionality reduction, model evaluation
 
-### [Essay Dashboard Web Application](https://ess-ai.herokuapp.com/)
+### [Essay Dashboard Web Application](https://youtu.be/ZIn6aDeJJZo)
 [GitHub](https://github.com/jakob-bjorner/essay-dashboard)  
 Ess-AI is a web application with a React.js-based frontend and Flask-based backend that serves to aid students in writing essays using AI.
 I collaboratively developed the website with 5 other teammates and did the following:
