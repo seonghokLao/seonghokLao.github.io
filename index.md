@@ -10,15 +10,15 @@ This page will be constantly updated as I complete more projects.
 [GitHub](https://github.gatech.edu/yma436/Winter-Boot-Tower-Defense)  
 A video game written in Java and JavaFX.
 I led a team of 5 to code the video game from scratch and did the following:
-- Utilized version control through Git and Test-Driven Development for game
--	Planned and tracked work of the team, controlled quality, helped with the team’s debugging
+- Utilized version control through Git and Test-Driven Development for game, wrote a total of 44 Java unit tests
+-	Planned and tracked work of the team, held weekly team meetings, controlled quality of a total of 6 game versions
 -	Implemented in-game menu, entity animation/movement, collision detection
 
 ### [Covid Identifier for CT Scans](https://seonghoklao.github.io/covid-identifier-for-ct-scans/)
 [GitHub](https://github.com/seonghokLao/covid-identifier-for-ct-scans)  
 A Machine Learning project where I led a team of 5 to train image classifiers on a dataset of human chest CT scans to identify whether they represent Covid positive or negative.
-- Trained model using Convolutional Neural Network based on DenseNet121 and reached validation accuracy of 97.06%
 - Conducted data cleaning and pre-processing, dimensionality reduction, model evaluation
+- Trained model using Convolutional Neural Network based on DenseNet121 and reached validation accuracy of 97.06%
 
 ### [Essay Dashboard Web Application](https://youtu.be/ZIn6aDeJJZo)
 [GitHub](https://github.com/jakob-bjorner/essay-dashboard)  
