@@ -1,6 +1,6 @@
 # Seong Hok Lao's Page
 ## Intro
-Hi, I'm Seong Hok, or Sean. I'm a 4th year Computer Science major at Georgia Institute of Technology. I'm working towards a career where I can pursue my interests in Artificial Intelligence and Robotics.
+Hi, I'm Seong Hok, or Sean. I'm a 4th year Computer Science major at Georgia Institute of Technology. I'm working towards a career where I can pursue my interests in Software Engineering and Machine Learning.
 I'm proficient in Python, Java, JavaScript, and SQL.  
 I have interned at AGTech (Alibaba Group) and built a full-stack online management system for the point score system using Vue.js, Java, MySQL. This system helps employees manage and monitor the point scores of app users and their daily transactions.  
 
