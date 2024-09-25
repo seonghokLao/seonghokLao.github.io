@@ -8,7 +8,8 @@ A few projects I worked on previously are listed below.
 This page will be updated as I work on more projects.
 ## Projects
 
-### Ping Pong Localization and Spin Decoding Using Factor Graph and Human Pose | Georgia Institute of Technology | CORE Robotics Lab
+### Ping Pong Localization and Spin Decoding Using Factor Graph and Human Pose
+##### Georgia Institute of Technology | CORE Robotics Lab
 [GitHub](https://github.gatech.edu/slao8/pingpong-localization)
 - Undergraduate Research topic focused on trying to predict ping pong ball trajectory using human pose data.
 - Completed Pose Estimation, You Only Look Once (YOLO) model training, Triangulation, Ping Pong ball trajectory simulation/prediction.
