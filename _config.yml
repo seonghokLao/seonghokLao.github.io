@@ -1,4 +1,5 @@
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+theme: minima
 title: Seong Hok Lao's Page
 github:
   is_project_page: false
