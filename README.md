@@ -1,3 +1,4 @@
+# Seong Hok "Sean" Lao's Page
 ## Intro
 Hi, I'm Seong Hok, or Sean. I'm a Computer Science Masters Student specializing in Machine Learning at Georgia Institute of Technology. I'm working towards a career where I can pursue my interests in Artificial Intelligence and Software Engineering.
 I'm proficient in Python, Java, JavaScript, and SQL.  
