@@ -9,7 +9,7 @@ This page will be updated as I work on more projects.
 ## Projects
 
 ### Ping Pong Localization and Spin Decoding Using Factor Graph and Human Pose
-##### Georgia Institute of Technology | CORE Robotics Lab
+#### Georgia Institute of Technology | CORE Robotics Lab
 [GitHub](https://github.gatech.edu/slao8/pingpong-localization)
 - Undergraduate Research topic focused on trying to predict ping pong ball trajectory using human pose data.
 - Completed Pose Estimation, You Only Look Once (YOLO) model training, Triangulation, Ping Pong ball trajectory simulation/prediction.
@@ -17,6 +17,7 @@ This page will be updated as I work on more projects.
 - Utilized Robot Operating System, Linux, Python, OpenCV.
 
 ### Covid Identifier for CT Scans
+#### Georgia Institute of Technology | Machine Learning
 [Results](https://seonghoklao.github.io/covid-identifier-for-ct-scans/)  
 A Machine Learning project where I led a team of 5 to train image classifiers on a dataset of human chest CT scans to identify whether they represent Covid positive or negative.
 - Trained machine learning models on a dataset of human chest Computerized Tomography scans to classify whether they represent Covid positive or negative. Wrote in Python, PyTorch.
@@ -24,6 +25,7 @@ A Machine Learning project where I led a team of 5 to train image classifiers on
 - Trained model using Convolutional Neural Network based on DenseNet121 and reached validation accuracy of 97.06%.
 
 ### [Essay Dashboard Web Application](https://youtu.be/ZIn6aDeJJZo)
+#### Georgia Institute of Technology | GT WebDev
 [GitHub](https://github.com/jakob-bjorner/essay-dashboard)  
 Ess-AI is a web application with a React.js-based frontend and Flask-based backend that serves to aid students in writing essays using AI.
 - Collaboratively developed a web application with ReactJS frontend and Flask backend that serves to aid students in writing essays using AI.
@@ -31,6 +33,7 @@ Ess-AI is a web application with a React.js-based frontend and Flask-based backe
 - Resulting website serves as proof of concept in using open language models to aid essay writing.
 
 ### [Tower Defense Game](https://youtu.be/t3jO11r3wCM)
+#### Georgia Institute of Technology | Objects and Design
 [GitHub](https://github.gatech.edu/yma436/Winter-Boot-Tower-Defense)  
 A video game written in Java and JavaFX.
 I led a team of 5 to code the video game from scratch and did the following:
