@@ -1,5 +1,5 @@
 #theme: jekyll-theme-cayman
-theme: minima
+remote_theme: pages-themes/merlot@v0.2.0
 title: Seong Hok Lao's Page
 github:
   is_project_page: false
