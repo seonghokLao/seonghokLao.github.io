@@ -18,7 +18,7 @@ This page will be updated as I work on more projects.
 
 ### Covid Identifier for CT Scans
 #### Georgia Institute of Technology | Machine Learning
-[Results](https://github.com/seonghokLao/covid-identifier-for-ct-scans)  
+[Results](https://seonghoklao.github.io/covid-identifier-for-ct-scans)  
 A Machine Learning project where I led a team of 5 to train image classifiers on a dataset of human chest CT scans to identify whether they represent Covid positive or negative.
 - Trained machine learning models on a dataset of human chest Computerized Tomography scans to classify whether they represent Covid positive or negative. Wrote in Python, PyTorch.
 - Conducted data cleaning and pre-processing, dimensionality reduction, model evaluation.
