@@ -10,7 +10,7 @@ This page will be updated as I work on more projects.
 
 ### Ping Pong Localization and Spin Decoding Using Factor Graph and Human Pose
 #### Georgia Institute of Technology | CORE Robotics Lab
-[GitHub](https://github.gatech.edu/slao8/pingpong-localization)
+[GitHub](https://seonghoklao.github.io/covid-identifier-for-ct-scans/)
 - Undergraduate Research topic focused on trying to predict ping pong ball trajectory using human pose data.
 - Completed Pose Estimation, You Only Look Once (YOLO) model training, Triangulation, Ping Pong ball trajectory simulation/prediction.
 - Conducted Human Body Tracking using depth camera, as well as parsing Inertial Measurement Unit data for a combination of human and Ping Pong racket pose tracking and visualization.
